@@ -12,3 +12,5 @@ and one more just becose i want
 now we testing new branch
 with features and
 some additional information
+
+and add some fore for feature branch
